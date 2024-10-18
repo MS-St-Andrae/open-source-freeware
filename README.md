@@ -20,4 +20,4 @@
 - [audacity](https://www.audacityteam.org/)
 
 ## Archivieren
-- [](https://www.7-zip.org/)
+- [7-Zip](https://www.7-zip.org/)
